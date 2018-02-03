@@ -1,0 +1,1 @@
+/usr/bin/g++  -g -Wall   CMakeFiles/Simulator360.dir/main.cpp.o CMakeFiles/Simulator360.dir/Project.cpp.o CMakeFiles/Simulator360.dir/Simulator.cpp.o  -o Simulator360 
